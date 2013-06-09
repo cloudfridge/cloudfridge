@@ -36,6 +36,11 @@ Type "help" for help.
 
 archiver=> 
 
+
+To reload the configuration:
+`sudo /etc/init.d/postgresql reload`
+
+
 ARD Configuration Front-End
 ===
 
@@ -68,7 +73,10 @@ To manually launch :
 
 from ~/smap-data/python
 
-`/usr/bin/python /usr/bin/twistd smap-archiver /etc/smap/archiver.ini`
+`sudo /usr/bin/python /usr/bin/twistd smap-archiver /etc/smap/archiver.ini`
+
+do not demonize:
+`~/smap-data/python$ sudo /usr/bin/python /usr/bin/twistd -n smap-archiver /etc/smap/archiver.ini`
 
 As a `monit` task:
 
