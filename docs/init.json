@@ -1,0 +1,225 @@
+{
+ "/cloudfridge/T-001/compressor_power": {
+    "Properties":{
+		"Timezone":"America/Los_Angeles",
+		"UnitofMeasure":"kWh",
+		"ReadingType":"double"
+	},
+	"uuid":"634c5314-7dae-42e7-9026-dafa2308b3e2",
+	"Readings":[[1370734162000, 947.0],[1370734262000, 147.0],[1370734362000, 450.2]],
+	"Metadata":{
+		"SourceName":"Test Bench Office",
+		"Device":{
+		    "DeviceID":"T-001",
+			"Model":"Redshift",
+			"Name":"Test Bench",	
+			"MAC":"00:77:2A",
+			"Version":"1.0"
+		},
+		"Sensor": {
+			"Type":"Compressor power",
+			"Model":"Hal Built-in",
+			"Version":"1.0",
+			"SerialNumber":"1",
+			"Interface":"Analog"
+		},
+		"Location":{
+			"Description":"Office Palo Alto",
+			"Street":"2666 East Bayshore Rd",
+			"City":"Palo Alto",
+			"State":"CA",
+			"Zip":"94303",
+			"Lat": "37.444889",
+			"Lon": "-122.118124"
+		},
+		"Refrigerator":{
+			"Manufacturer":"Millenium",
+			"Model":"Proto",
+			"Type":"Cooler",
+			"Volume":"1",
+			"Method":"Experimental 1.0"
+		}
+	}
+  }
+}
+
+{
+ "/cloudfridge/T-001/evaporator_power": {
+	"Properties":{
+		"Timezone":"America/Los_Angeles",
+		"UnitofMeasure":"kWh",
+		"ReadingType":"double"
+	},
+	"uuid":"02c21a38-c9c3-4c7f-8833-d8a6f2f430ab",
+	"Readings":[[1370734162000, 247.0],[1370734262000, 47.0],[1370734362000, 150.2]],
+	"Metadata":{
+		"SourceName":"Test Bench Office",
+		"Device":{
+		    "DeviceID":"T-001",
+			"Model":"Redshift",
+			"Name":"Test Bench",	
+			"MAC":"00:77:2A",
+			"Version":"1.0"
+		},
+		"Sensor": {
+			"Type":"Evaporator power",
+			"Model":"Hal Built-in",
+			"Version":"1.0",
+			"SerialNumber":"1",
+			"Interface":"Analog"
+		},
+		"Location":{
+			"Description":"Office Palo Alto",
+			"Street":"2666 East Bayshore Rd",
+			"City":"Palo Alto",
+			"State":"CA",
+			"Zip":"94303",
+			"Lat": "37.444889",
+			"Lon": "-122.118124"
+		},
+		"Refrigerator":{
+			"Manufacturer":"Millenium",
+			"Model":"Proto",
+			"Type":"Cooler",
+			"Volume":"1",
+			"Method":"Experimental 1.0"
+		}
+	}
+  }
+}
+
+{
+ "/cloudfridge/T-002/compressor_power": {
+	"Properties":{
+		"Timezone":"America/Los_Angeles",
+		"UnitofMeasure":"kWh",
+		"ReadingType":"double"
+	},
+	"uuid":"6225f168-c127-4b53-8bc1-a212b952e387",
+	"Readings":[[1370734162000, 447.0],[1370734262000, 47.0],[1370734362000, 250.2]],
+	"Metadata":{
+		"SourceName":"Beverage Air 100",
+		"Device":{
+		    "DeviceID":"T-002",
+			"Model":"Redshift",
+			"Name":"Beverage Air",	
+			"MAC":"00:77:2B",
+			"Version":"1.0"
+		},
+		"Sensor": {
+			"Type":"Compressor power",
+			"Model":"Hal Built-in",
+			"Version":"1.0",
+			"SerialNumber":"1",
+			"Interface":"Analog"
+		},
+		"Location":{
+			"Description":"Office Palo Alto",
+			"Street":"2666 East Bayshore Rd",
+			"City":"Palo Alto",
+			"State":"CA",
+			"Zip":"94303",
+			"Lat": "37.444889",
+			"Lon": "-122.118124"
+		},
+		"Refrigerator":{
+			"Manufacturer":"Beverage Air",
+			"Model":"100",
+			"Type":"Cooler",
+			"Volume":"1",
+			"Method":"Experimental 1.0"
+		}
+	}
+  }
+}
+
+{
+ "/cloudfridge/T-002/evaporator_power": {
+	"Properties":{
+		"Timezone":"America/Los_Angeles",
+		"UnitofMeasure":"kWh",
+		"ReadingType":"double"
+	},
+	"uuid":"325c5c66-bd23-4a5e-905f-06990922c5f4",
+	"Readings":[[1370734162000, 447.0],[1370734262000, 47.0],[1370734362000, 250.2]],
+	"Metadata":{
+		"SourceName":"Beverage Air 100",
+		"Device":{
+		    "DeviceID":"T-002",
+			"Model":"Redshift",
+			"Name":"Beverage Air",	
+			"MAC":"00:77:2B",
+			"Version":"1.0"
+		},
+		"Sensor": {
+			"Type":"Evaporator power",
+			"Model":"Hal Built-in",
+			"Version":"1.0",
+			"SerialNumber":"1",
+			"Interface":"Analog"
+		},
+		"Location":{
+			"Description":"Office Palo Alto",
+			"Street":"2666 East Bayshore Rd",
+			"City":"Palo Alto",
+			"State":"CA",
+			"Zip":"94303",
+			"Lat": "37.444889",
+			"Lon": "-122.118124"
+		},
+		"Refrigerator":{
+			"Manufacturer":"Beverage Air",
+			"Model":"100",
+			"Type":"Cooler",
+			"Volume":"1",
+			"Method":"Experimental 1.0"
+		}
+	}
+  }
+}
+
+
+{
+ "/cloudfridge/T-003/compressor_power": {
+	"Properties":{
+		"Timezone":"America/Los_Angeles",
+		"UnitofMeasure":"kWh",
+		"ReadingType":"double"
+	},
+	"uuid":"4c75504f-d521-4eca-ab38-fd531c048b92",
+	"Readings":[[1370734162000, 447.0],[1370734262000, 47.0],[1370734362000, 250.2]],
+	"Metadata":{
+		"SourceName":"Whirpool A7",
+		"Device":{
+		    "DeviceID":"T-003",
+			"Model":"Redshift",
+			"Name":"Whirpool A7",	
+			"MAC":"00:77:2C",
+			"Version":"1.0"
+		},
+		"Sensor": {
+			"Type":"Compressor power",
+			"Model":"Hal Built-in",
+			"Version":"1.0",
+			"SerialNumber":"1",
+			"Interface":"Analog"
+		},
+		"Location":{
+			"Description":"Caffe Riace",
+			"Street":"200 Sheridan Ave",
+			"City":"Palo Alto",
+			"State":"CA",
+			"Zip":"94306",
+			"Lat": "37.444889",
+			"Lon": "-122.118124"
+		},
+		"Refrigerator":{
+			"Manufacturer":"Whirpool",
+			"Model":"A7",
+			"Type":"Cooler",
+			"Volume":"10",
+			"Method":"Experimental 1.0"
+		}
+	}
+  }
+}
