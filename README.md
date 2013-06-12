@@ -1,0 +1,1 @@
+![GitHub Logo](http://cloudfridge.io/images/cloudfridgeLogo.png)
