@@ -7,7 +7,10 @@ in a cloud computing environment. Instead of a factory pre-configured control lo
 use of sophisticated control software and the power of cloud computing to remotely operate a refrigeration system, 
 optimize for energy consumption and push efficiency to new limits.
 
-Read more technical details in the Cloudfridge [wiki](https://github.com/cloudfridge/cloudfridge/wiki/Cloudfridge)
+Read more technical details in the Cloudfridge [wiki](https://github.com/cloudfridge/cloudfridge/wiki/Wiki-Index)
+
+The software, hardware designs and documentation in this repository are copyright of Visible Energy, Inc. and licensed 
+open source under the [AGPL License](http://www.gnu.org/licenses/agpl.html). See the LICENSE file.
 
 Cloudfridge is in funded with a grant from the [California Energy Commission](http://www.energy.ca.gov/research/index.html).
 
