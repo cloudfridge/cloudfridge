@@ -16,3 +16,5 @@ open source under the [AGPL License](http://www.gnu.org/licenses/agpl.html). See
 Cloudfridge is in part funded with a grant from the [California Energy Commission](http://www.energy.ca.gov/research/index.html).
 
 ![Pier](http://www.gosolarcalifornia.ca.gov/professionals/images/pier_logo.gif)
+
+Contact us: cloudfridge@visiblenergy.com
