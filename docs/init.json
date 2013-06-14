@@ -313,3 +313,64 @@
     "uuid": "3c1d642d-9499-423b-a27c-b0384c42758b"
   }
 }
+
+// data upload using nebula sense
+
+{
+  "/cloudfridge/Nebula-235a75b236a7c9ee/ambient_humidity": {
+    "Properties": {
+      "ReadingType": "double", 
+      "Timezone": "America/Los_Angeles", 
+      "UnitofMeasure": "Percent"
+    }, 
+    "Readings": [
+      [
+        1371086231000, 
+        31.4656
+      ]
+    ], 
+    "uuid": "81bba727-36b1-49e8-9489-7cb3682cc963"
+  }, 
+  "/cloudfridge/Nebula-235a75b236a7c9ee/ambient_temperature": {
+    "Properties": {
+      "ReadingType": "double", 
+      "Timezone": "America/Los_Angeles", 
+      "UnitofMeasure": "C"
+    }, 
+    "Readings": [
+      [
+        1371086231000, 
+        26.0
+      ]
+    ], 
+    "uuid": "9977b4bd-6bec-4a30-835b-86c51591a10a"
+  }, 
+  "/cloudfridge/Nebula-235a75b236a7c9ee/cabin_temperature": {
+    "Properties": {
+      "ReadingType": "double", 
+      "Timezone": "America/Los_Angeles", 
+      "UnitofMeasure": "C"
+    }, 
+    "Readings": [
+      [
+        1371086231000, 
+        24.625
+      ]
+    ], 
+    "uuid": "52639e21-0302-408c-9d8e-e1f93c7992c7"
+  }, 
+  "/cloudfridge/Nebula-235a75b236a7c9ee/evaporator_temperature": {
+    "Properties": {
+      "ReadingType": "double", 
+      "Timezone": "America/Los_Angeles", 
+      "UnitofMeasure": "C"
+    }, 
+    "Readings": [
+      [
+        1371086231000, 
+        24.4375
+      ]
+    ], 
+    "uuid": "3c1d642d-9499-423b-a27c-b0384c42758b"
+  }
+}
